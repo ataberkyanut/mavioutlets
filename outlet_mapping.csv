@@ -4,7 +4,7 @@ CA,Mavi,5001 Yaletown,0665b57a-9e5f-11ef-fec5-cd35f4e25cc4
 CA,Mavi,5002 Kitsilano,06756564-e213-11ef-ee3e-29a1ff96612f
 CA,Mavi,5003 Sea Island,0665b57a-9e5f-11ef-fec5-cd3627b2f1f2
 CA,Mavi,5004 Park Royal,0665b57a-9e5f-11ef-fec5-cd36566fc32b
-CA,Mavi,5005 Sample Store,0683d884-6097-11f0-e104-1a3ab1b04520
+CA,Sample,5005 Sample Store,0683d884-6097-11f0-e104-1a3ab1b04520
 CA,Mavi,5006 Robson,-
 CA,34H,5007 Sea Island,062791b7-ddc1-11ef-eaf5-29a2536cbdaf
 CA,Mavi,5008 Chinook,0665b57a-9e5f-11ef-fec5-a044f238eca7
@@ -25,4 +25,5 @@ US,Mavi,4113 CherryCreek,_
 US,Mavi,4114 FashionOutletsOfChicago,=
 US,Mavi,4401 Jersey Gardens,+
 US,BKI,4771 BKIJerseyGardens,.
+US,Sample,9000 Sample Store, 0683d884-6097-11f0-e104-1a39ed5a8c66
 null, null, single outlet, null
