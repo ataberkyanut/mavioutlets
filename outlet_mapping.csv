@@ -1,5 +1,4 @@
 Country﻿,Brand,Outlet,Lightspeed Outlet ID
-US,BKI,4701 Williamsburg,062791b7-ddc1-11ef-eaf5-24434da6ee92
 CA,Mavi,5001 Yaletown,0665b57a-9e5f-11ef-fec5-cd35f4e25cc4
 CA,Mavi,5002 Kitsilano,06756564-e213-11ef-ee3e-29a1ff96612f
 CA,Mavi,5003 Sea Island,0665b57a-9e5f-11ef-fec5-cd3627b2f1f2
@@ -24,6 +23,8 @@ US,Mavi,4112 StJohns,`
 US,Mavi,4113 CherryCreek,_
 US,Mavi,4114 FashionOutletsOfChicago,=
 US,Mavi,4401 Jersey Gardens,+
+US,BKI,4701 Williamsburg,062791b7-ddc1-11ef-eaf5-24434da6ee92
 US,BKI,4771 BKIJerseyGardens,0698ab21-5fe0-11f0-e2ca-503a2e62707c
 US,Sample,9000 Sample Store, 0683d884-6097-11f0-e104-1a39ed5a8c66
 null, null, single outlet, null
+
